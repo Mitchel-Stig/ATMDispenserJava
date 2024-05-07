@@ -55,6 +55,7 @@ To run the tests, run the following:
 
 ## Further Possible Improvements
 
+- Further unit tests to handle more denominations, add/remove currency usage and exception expectations
 - Addition of Front-end
 - Addition of Database to store denomination counts
 - Addition of threshold identification for denomination counts
